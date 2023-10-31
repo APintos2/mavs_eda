@@ -23,11 +23,13 @@ Repositorio con un proyecto, escrito en Python, de EDA (Exploratory Data Analysi
 
 El proyecto contiene las siguientes carpetas:
 
-1. codigo/EDA.ipynb: en este notebook tendrás que resumir de forma clara y ordenada todos los pasos de la analítica. Durante el desarrollo del Notebook se incluye el uso de librerías de manejo de datos como ```Pandas``` o de visualización, como ```Matplotlib```, ```Seaborn``` o ```Plotly```.
+1. codigo/EDA.ipynb: Notebook principal del proyecto. Durante el desarrollo, se incluye el uso de librerías de manejo de datos como ```Pandas``` o de visualización, como ```Matplotlib```, ```Seaborn``` o ```Plotly```.
 
 2. codigo/data: contiene todos los archivos de datos utilizados en el análisis, elaborados a partir de los Notebooks en la carpeta "notebooks".
 
-3. codigo/notebooks: contiene los notebooks usados para pruebas y obtención de datos, haciendo webscrapping de la [página de estadísticas de la NBA](https://es.global.nba.com/statistics/). En estos notebooks se incluye el uso de librerías como ```Selenium``` o ```BeautifulSoup```.
+3. codigo/img: contiene imágenes utilizadas en el Notebook principal.
+
+4. codigo/notebooks: contiene los Notebooks usados para pruebas y obtención de datos, haciendo webscrapping de la [página de estadísticas de la NBA](https://es.global.nba.com/statistics/). En estos Notebooks se incluye el uso de librerías como ```Selenium``` o ```BeautifulSoup```.
 
 
 
