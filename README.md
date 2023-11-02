@@ -2,11 +2,11 @@
 
 <img src="img/mavs_logo.png" alt="NBA logo" width="170"/>
 
-## Overview
+## Overview.
 
 Repositorio con un proyecto, escrito en Python, de EDA (Exploratory Data Analysis), sobre el uso de estadísticas para la mejora del rendimiento de un equipo NBA, los Dallas Mavericks. En él, se analizan los distintos factores del juego y su influencia en los resultados del equipo en los últimos años. Además, se proponen mejoras a partir de las conclusiones extraídas.
 
-## Procedimiento
+## Procedimiento.
 
 1. Problemática.
 2. Extracción de datos mediante webscrapping.
@@ -15,11 +15,11 @@ Repositorio con un proyecto, escrito en Python, de EDA (Exploratory Data Analysi
 5. Visualización de datos.
 6. Extracción de conclusiones y propuestas de mejora.
 
-## Módulos de Python utilizados:
+## Módulos de Python utilizados.
 
 ```Pandas``` / ```NumPy``` / ```Matplotlib``` / ```Seaborn``` / ```Plotly``` / ```Selenium``` / ```BeautifulSoup```
 
-## Archivos y carpetas:
+## Archivos y carpetas.
 
 El proyecto contiene las siguientes carpetas:
 
